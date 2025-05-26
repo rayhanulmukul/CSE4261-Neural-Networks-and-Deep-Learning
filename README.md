@@ -1,1 +1,1 @@
-# CSE4261Neural-Networks-and-Deep-Learning-Lab
+# CSE4261-Neural-Networks-and-Deep-Learning-Lab
